@@ -1,7 +1,7 @@
 ![Uploading HUOLB.png…]()
 
 
-Digiturk DT 9104 HD uydu alıcısı donanımı için sıfırdan geliştirilen açık kaynaklı özel işletim sistemi ve emülatör projesidir.
+Digiturk DT 9104 HD uydu alıcısı donanımı için Ubuntu tabanlı açık kaynaklı özel işletim sistemi ve emülatör projesidir.
 
 ### 🚀 Proje Hakkında
 * **Hedef Donanım:** STiH237 tabanlı Digiturk DT 9104 HD
