@@ -1,16 +1,17 @@
-## Hi there 👋
+![Uploading HUOLB.png…]()
 
-<!--
-**HerUyduOS/HerUyduOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Digiturk DT 9104 HD uydu alıcısı donanımı için sıfırdan geliştirilen açık kaynaklı özel işletim sistemi ve emülatör projesidir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proje Hakkında
+* **Hedef Donanım:** STiH237 tabanlı Digiturk DT 9104 HD
+* **Geliştirme Araçları:** Python, Tkinter, C#, PowerShell
+* **Görsel Kimlik:** Roblox esintili özel logo tasarımları ve mavi geometrik arayüz dokuları.
+
+### 📂 Proje Yapısı
+* `iso/` -> İşletim sistemi imaj dosyaları (`.huis`)
+* `src/` -> Emülatör ve kaynak kodları (`main.py`)
+* `assets/` -> Logolar ve arayüz arka plan dokuları
+
+---
+*İletişim ve Destek için: heruyduos@gmail.com*
